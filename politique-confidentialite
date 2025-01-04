@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de confidentialité</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        p, ul {
+            margin-bottom: 15px;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Politique de confidentialité</h1>
+    </header>
+    <main>
+        <p>
+            La politique de confidentialité ne concerne que l’application mobile Voie Vertes France téléchargeable sur Google Play pour les appareils Android ou compatibles.
+        </p>
+        <p>
+            Notre entreprise, soucieuse des droits des individus, notamment au regard des traitements automatisés et dans une volonté de transparence avec ses clients, a mis en place une politique reprenant l’ensemble de ces traitements, des finalités poursuivies par ces derniers ainsi que des moyens d’actions à la disposition des individus afin qu’ils puissent au mieux exercer leurs droits.
+        </p>
+        <p>
+            Pour toute information complémentaire sur la protection des données personnelles, nous vous invitons à consulter le site : <a href="https://www.cnil.fr/" target="_blank">https://www.cnil.fr/</a>
+        </p>
+        <p>
+            La poursuite de la navigation sur ce site vaut acceptation sans réserve des dispositions et conditions d’utilisation qui suivent. La version actuellement en ligne de ces conditions d’utilisation est la seule opposable pendant toute la durée d’utilisation de l’application et jusqu’à ce qu’une nouvelle version la remplace.
+        </p>
+        <h2>Mentions légales</h2>
+        <img src="URL_DE_VOTRE_IMAGE" alt="Mentions légales illustration">
+        <p>
+            Hébergeur : O2SWITCH 222-224 Boulevard Gustave Flaubert 63000 Clermont-Ferrand<br>
+            SARL o2switch au capital de 7500€<br>
+            RCS : Clermont-Ferrand – SIRET : 510 909 80700016 – TVA : FR35510909807<br>
+            La marque o2switch est déposée INPI sous le numéro 09 3 645 729.
+        </p>
+        <h2>Accès au site</h2>
+        <p>
+            L’accès à l’application et son utilisation sont réservés à un usage strictement personnel. Vous vous engagez à ne pas utiliser cette application et les informations ou données qui y figurent à des fins commerciales, politiques, publicitaires et pour toute forme de sollicitation commerciale et notamment l’envoi de courriers électroniques non sollicités.
+        </p>
+        <h2>Contenu de l’application</h2>
+        <p>
+            Toutes les marques, photographies, textes, commentaires, illustrations, images animées ou non, séquences vidéo, sons, ainsi que toutes les applications informatiques qui pourraient être utilisées pour faire fonctionner cette application et plus généralement tous les éléments reproduits ou utilisés sur le site sont protégés par les lois en vigueur au titre de la propriété intellectuelle.
+        </p>
+        <!-- Ajoutez les autres sections ici de la même manière -->
+    </main>
+    <footer>
+        <p>© 2025 Voie Vertes France</p>
+    </footer>
+</body>
+</html>
